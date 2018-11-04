@@ -1,0 +1,9 @@
+User-agent: *
+Crawl-delay: 40
+Allow: /
+Sitemap: http://www.familyworld.github.io/children/sitemap.xml
+Sitemap: http://familyworld.github.io/children/sitemap.xml
+Host: http://familyworld.github.io/children
+Host: http://www.familyworld.github.io/children
+Host: http://familyworld.github.io/children/index.html
+Host: http://www.familyworld.github.io/children/index.html
